@@ -2,7 +2,7 @@
 
 Please download Checkklist.md file and import into your favorite Markdown note taking software (I use Obsidian).
 
-Alternatively you can copy/paste raw content into your .md page. 
+Alternatively you can copy/paste raw content (https://raw.githubusercontent.com/aaures/OSCP-Course-Exercise-Checklist/main/Checklist.md) into your .md page. 
 
 Check/un-check Checkbox to track your progress, all the best for your OSCP!
 
