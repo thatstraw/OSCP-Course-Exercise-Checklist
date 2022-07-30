@@ -1,6 +1,6 @@
 # OSCP-Course-Exercise-Checklist
 
-Please download and import .md file into your favorite Markdown note taking software (I use Obsidian).
+Please download Checkklist.md file and import into your favorite Markdown note taking software (I use Obsidian).
 
 Check/un-check Checkbox to track your progress. 
 
