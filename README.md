@@ -7,3 +7,7 @@ Alternatively you can copy/paste raw content into your .md page.
 Check/un-check Checkbox to track your progress, all the best for your OSCP!
 
 ![image](https://user-images.githubusercontent.com/70193762/181879731-d68e7e2e-2810-4e2a-8024-c955199d1d19.png)
+
+
+Thanks to Cyb3rC3lt for the actual list, I used the following github content to create this .md
+https://github.com/Cyb3rC3lt/OSCP-Exercise-Checklist/blob/main/README.md
