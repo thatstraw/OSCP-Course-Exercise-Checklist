@@ -1,4 +1,4 @@
-# OSCP-Course-Exercise-Checklist
+# OSCP-Course-Exercise-Checklist / Tracker
 
 Please download Checkklist.md file and import into your favorite Markdown note taking software (I use Obsidian).
 
